@@ -1,0 +1,23 @@
+#top{
+	background-color: orange;
+	font-size: 20px;
+	text-align: right;
+	font-family: san serif;
+	margin-top: 10px;
+}
+.navbar ul li{
+	margin-right: 13px;
+}
+.navbar{
+	margin-top: -40px;
+}
+.navbar ul li a:visted{
+	background-color: orange;
+	
+}
+#links a{
+	color: white;
+}
+#social ul li{
+	display: inline;
+}
